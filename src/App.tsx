@@ -17,6 +17,7 @@ function App() {
         </div>
         <div>
           <h1>BISMILLAH AR RAHMAN AR RAHEEM</h1>
+          <h2>Absolutely Serious About Data</h2>
           <p>
             Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
           </p>
